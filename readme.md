@@ -1,4 +1,8 @@
-Step to run application:
+This a solution of most common ML problem: Fraud Detection
+This was build in American Express Woman Hackathon: Makeathon
+
+
+Step to run application.
 Step 1:	Create the copy of the project.
 Step 2: Open command prompt and change your current path 
 to folder where you can find 'app.py' file.
