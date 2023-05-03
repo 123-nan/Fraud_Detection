@@ -1,5 +1,5 @@
 This a solution of most common ML problem: Fraud Detection
-This was build in American Express Woman Hackathon: Makeathon
+This project is  build in American Express Woman Hackathon: Makeathon
 
 
 Step to run application.
